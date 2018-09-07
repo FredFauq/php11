@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://images.wallpaperscraft.com/image/mask_hood_anonymous_125982_1280x720.jpg);
+    background-size: cover;
+    font-family: 'Righteous', cursive;
+    color: lime;
+}
+input{
+    color: lime;
+    background-color: #191919;
+    border: none;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    height: 40px;
+    border-radius: 3px;
+}
+.button{
+ border-radius: 3px;
+ height: 40px;
+ width: 70px;
+ font-size: 20px;
+ text-align: center;
+}
+.bgc{
+    float: right;
+    background:  #0d0d0d ;
+    margin-top: 675px;
+    padding: 15px;
+    border-radius: 5px;    
+}
+.result{
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: none;
+    background: #191919;
+    border: none;
+}
